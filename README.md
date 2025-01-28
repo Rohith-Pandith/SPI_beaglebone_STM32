@@ -1,4 +1,3 @@
-# Genesis_Mini_Project
 # Communication between BeagleBone Black and STM32 via SPI to activate Ultrasonic sensor
 Objective:
 
